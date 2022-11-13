@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\bin\Debug\NasljedivanjeAndrej01.exe.config
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\bin\Debug\NasljedivanjeAndrej01.exe
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\bin\Debug\NasljedivanjeAndrej01.pdb
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\obj\Debug\NasljedivanjeAndrej01.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\obj\Debug\NasljedivanjeAndrej01.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\obj\Debug\NasljedivanjeAndrej01.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\obj\Debug\NasljedivanjeAndrej01.exe
+C:\Users\HP\source\repos\NasljedivanjeAndrej01\NasljedivanjeAndrej01\obj\Debug\NasljedivanjeAndrej01.pdb
